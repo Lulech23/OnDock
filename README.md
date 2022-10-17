@@ -14,7 +14,7 @@ OnDock is a combination of PowerShell and Windows Task Scheduler that runs silen
 1. Download the latest OnDock Installer script from [releases](https://github.com/Lulech23/OnDock/releases/latest). You must choose between using display or power connectivity as a trigger for custom actions.
 2. Run the script of your choice and proceed through the fully automated installation.
 3. Locate the OnDock folder in your Start menu, and open the shortcut provided to reveal two folders named `Connect` and `Disconnect`, respectively.
-4. Copy any scripts, programs, and files to these folders for OnDock to execute accordingly.
+4. Copy any scripts, programs, and files to these folders for OnDock to execute accordingly. For some starter examples, see the [tools](https://github.com/Lulech23/OnDock/tree/main/tools) folder in this repository.
 
 If you decide OnDock isn't for you, simply run the script again and it'll undo all changes to your system. You will be prompted whether to keep or remove custom actions, so you won't lose your setup if you decide to come back or switch triggers later.
 
